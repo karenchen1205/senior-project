@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B99E3FDD-1909-455C-B1FD-4F81DB5F64A6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B2278A8-E889-4A14-ABD5-BE1DBFA364CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BodyDetection/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent
+                     consoleCommand = "">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "3B2278A8-E889-4A14-ABD5-BE1DBFA364CE - 201fb49977a01a8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BodyDetection.AppDelegate.__allocating_init() -&gt; BodyDetection.AppDelegate"
+                  moduleName = "BodyDetection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/izaya/Desktop/CapturingBodyMotionIn3D-2%E6%B8%AC%E8%A9%A6/BodyDetection/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "3B2278A8-E889-4A14-ABD5-BE1DBFA364CE - bb82186d1e5ec0a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BodyDetection.AppDelegate.init() -&gt; BodyDetection.AppDelegate"
+                  moduleName = "BodyDetection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/izaya/Desktop/CapturingBodyMotionIn3D-2%E6%B8%AC%E8%A9%A6/BodyDetection/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "3B2278A8-E889-4A14-ABD5-BE1DBFA364CE - ee2442392615cadf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BodyDetection.AppDelegate.__deallocating_deinit"
+                  moduleName = "BodyDetection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/izaya/Desktop/CapturingBodyMotionIn3D-2%E6%B8%AC%E8%A9%A6/BodyDetection/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "3B2278A8-E889-4A14-ABD5-BE1DBFA364CE - aed9519cd224bf93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "BodyDetection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/izaya/Desktop/CapturingBodyMotionIn3D-2%E6%B8%AC%E8%A9%A6/BodyDetection/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26EBE268-8F2A-43FB-91EE-E36608254039"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BodyDetection/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "26EBE268-8F2A-43FB-91EE-E36608254039 - 201fb49977a01a8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BodyDetection.AppDelegate.__allocating_init() -&gt; BodyDetection.AppDelegate"
+                  moduleName = "BodyDetection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/izaya/Desktop/CapturingBodyMotionIn3D-2%E6%B8%AC%E8%A9%A6/BodyDetection/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "26EBE268-8F2A-43FB-91EE-E36608254039 - bb82186d1e5ec0a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BodyDetection.AppDelegate.init() -&gt; BodyDetection.AppDelegate"
+                  moduleName = "BodyDetection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/izaya/Desktop/CapturingBodyMotionIn3D-2%E6%B8%AC%E8%A9%A6/BodyDetection/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "26EBE268-8F2A-43FB-91EE-E36608254039 - ee2442392615cadf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BodyDetection.AppDelegate.__deallocating_deinit"
+                  moduleName = "BodyDetection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/izaya/Desktop/CapturingBodyMotionIn3D-2%E6%B8%AC%E8%A9%A6/BodyDetection/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "26EBE268-8F2A-43FB-91EE-E36608254039 - aed9519cd224bf93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "BodyDetection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/izaya/Desktop/CapturingBodyMotionIn3D-2%E6%B8%AC%E8%A9%A6/BodyDetection/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
